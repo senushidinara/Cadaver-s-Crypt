@@ -226,7 +226,7 @@ cadaver-crypt/
 
 ## 🚀 Quick Start
 
-details>
+
 <summary><strong>Local Development & Deployment</strong></summary>Prerequisites
 
 · Node.js 16+
