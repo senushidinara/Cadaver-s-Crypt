@@ -46,7 +46,7 @@ Cadaver's Crypt transforms traditional anatomy education into an engaging Hallow
 
 ## 🚀 Live Demo
 
-- **🌐 Web Application**: [cadaver-crypt.netlify.app](https://cadaver-crypt.netlify.app)
+- **🌐 Web Application**: [cadaver-crypt.netlify.app](https://692c1d159a66bb1bb2b376a2--iridescent-mousse-24ec61.netlify.app/)
 - **🎥 Video Demo**: YouTube Demo
 - **📱 PWA Ready**: Install as mobile app for offline learning
 
