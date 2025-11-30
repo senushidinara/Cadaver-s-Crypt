@@ -286,7 +286,8 @@ npx netlify-cli deploy --prod --dir=build
 └─────────────────────────────────────────────────┘
 ```
 
-</details>## 🏥 Medical Accuracy
+</details>
+## 🏥 Medical Accuracy
 
 All educational content maintains **100% anatomical accuracy**:
 
