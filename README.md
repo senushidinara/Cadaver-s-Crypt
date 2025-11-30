@@ -1,6 +1,6 @@
 ---
-title: "🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab"
-description: "A haunted medical education platform where anatomy meets the afterlife"
+"🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab"
+ "A haunted medical education platform where anatomy meets the afterlife"
 ---
 
 <div align="center">
@@ -247,7 +247,9 @@ npx netlify-cli deploy --prod --dir=build
 </details>🎮 How to Use
 
 <details>
-<summary><strong>User Journey Flow</strong></summary>```ascii
+<summary><strong>User Journey Flow</strong></summary>
+  
+```
 ┌─────────────────────────────────────────────────┐
 │               USER JOURNEY FLOW                 │
 ├─────────────────────────────────────────────────┤
