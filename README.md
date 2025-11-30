@@ -286,6 +286,7 @@ npx netlify-cli deploy --prod --dir=build
 All educational content maintains 100% anatomical accuracy:
 
 · ✅ Verified against Terminologia Anatomica standards
+
 · ✅ Peer-reviewed clinical correlations
 · ✅ Evidence-based medical information
 · ✅ Progressive complexity aligned with medical curricula
@@ -314,7 +315,96 @@ All educational content maintains 100% anatomical accuracy:
                                      │             │
                                      └─────────────┘
 ```
+## 🧠 Key AI Features
 
+- **Conversational Interface:** Natural dialogue with Dr. Cadaverson  
+- **Medical Validation:** Real-time anatomical accuracy checking  
+- **Adaptive Learning:** Personalized difficulty progression  
+- **Content Generation:** Dynamic quiz and case study creation  
+
+---
+
+## 📱 Platform Support
+
+- **Desktop:** Full 3D experience with keyboard/mouse controls  
+- **Tablet:** Touch-optimized interface with gesture support  
+- **Mobile:** Responsive design with mobile-friendly interactions  
+- **Offline:** PWA functionality for uninterrupted learning  
+
+---
+
+## 🤝 Contributing
+
+<details>
+<summary><strong>Contribution Guidelines</strong></summary>
+
+We welcome contributions from developers, medical professionals, and educators.
+
+### **Development Process**
+1. Fork the repository  
+2. Create a feature branch:  
+   `git checkout -b feature/amazing-feature`  
+3. Commit your changes:  
+   `git commit -m 'Add amazing feature'`  
+4. Push to the branch:  
+   `git push origin feature/amazing-feature`  
+5. Open a Pull Request  
+
+### **Areas for Contribution**
+- Additional anatomical models  
+- New quiz questions and clinical cases  
+- UI/UX improvements  
+- Performance optimizations  
+- Translation and localization  
+
+</details>
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — see the LICENSE file for details.
+
+---
+
+## 👨‍⚕️ About the Creator
+
+**Senushi Dinara — Medical Student & AI Developer**
+
+- 🎓 Medical education enthusiast  
+- 🤖 AI and neuroscience researcher  
+- 🏆 Hackathon competitor and innovator  
+- 🌟 Passionate about educational technology  
+
+---
+
+## 🔗 Links
+
+- 📚 **Documentation:** Project Wiki  
+- 🐛 **Issue Tracker:** GitHub Issues  
+- 💬 **Discussion:** GitHub Discussions  
+
+---
+
+## 🙏 Acknowledgments
+
+- **Kiro AI** for transformative development capabilities  
+- Medical professionals who verified anatomical accuracy  
+- Open-source community for amazing tools and libraries  
+- **Netlify** for seamless deployment  
+- Test users who provided valuable feedback  
+
+---
+
+<div align="center">
+
+Built with ❤️ and 👻 for the future of medical education  
+
+**"The only thing we have to fear is forgetting our anatomy." — Dr. Cadaverson**
+
+### 🔗 Live Demo  
+**cadaver-crypt.netlify.app**
+
+</div>
 
 
   
