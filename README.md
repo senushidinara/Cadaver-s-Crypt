@@ -1,7 +1,12 @@
+<div align="center">
+
+# 🏥💀 **Cadaver's Crypt: The Resurrected Anatomy Lab**
+
+### *A haunted medical education platform where anatomy meets the afterlife*
+
 ---
-"🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab"
- "A haunted medical education platform where anatomy meets the afterlife"
----
+
+</div>
 
 <div align="center">
 
