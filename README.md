@@ -1,96 +1,224 @@
-🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab
+```markdown
+---
+title: "🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab"
+description: "A haunted medical education platform where anatomy meets the afterlife"
+badges:
+  - https://img.shields.io/badge/Theme-Haunted%20Medical%20Lab-8b0000
+  - https://img.shields.io/badge/Built%20with-Kiro_AI-2a9d8f
+  - https://img.shields.io/badge/License-MIT-green
+  - https://img.shields.io/badge/Deployed-Netlify-00C7B7
+---
 
-A haunted medical education platform where anatomy meets the afterlife
+<div align="center">
 
-https://img.shields.io/badge/Theme-Haunted%20Medical%20Lab-8b0000
-https://img.shields.io/badge/Built%20with-Kiro_AI-2a9d8f
-https://img.shields.io/badge/License-MIT-green
+# 🏥💀 Cadaver's Crypt: The Resurrected Anatomy Lab
 
-👻 Welcome to the Haunted Anatomy Lab
+### *A haunted medical education platform where anatomy meets the afterlife*
+
+[![Theme](https://img.shields.io/badge/Theme-Haunted%20Medical%20Lab-8b0000)](https://img.shields.io/badge/Theme-Haunted%20Medical%20Lab-8b0000)
+[![Built with Kiro AI](https://img.shields.io/badge/Built%20with-Kiro_AI-2a9d8f)](https://img.shields.io/badge/Built%20with-Kiro_AI-2a9d8f)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://img.shields.io/badge/License-MIT-green)
+[![Netlify Status](https://img.shields.io/badge/Deployed-Netlify-00C7B7)](https://app.netlify.com/sites/cadaver-crypt/deploys)
+
+</div>
+
+## 👻 Welcome to the Haunted Anatomy Lab
 
 Step into Dr. Cadaverson's abandoned anatomy laboratory, where medical education has been resurrected through AI and interactive technology. Learn anatomy by conversing with a ghostly professor and exploring spooky 3D models in this immersive educational experience.
 
-🎯 What is Cadaver's Crypt?
+<details>
+<summary><strong>🎯 What is Cadaver's Crypt?</strong></summary>
 
 Cadaver's Crypt transforms traditional anatomy education into an engaging Halloween-themed adventure. As a medical student trapped in a haunted laboratory, you must prove your anatomical knowledge to escape while learning from an AI-powered ghost professor.
 
-🚀 Live Demo
+```
 
-· 🌐 Web Application: cadaver-crypt.vercel.app
-· 🎥 Video Demo: YouTube Demo
-· 📱 PWA Ready: Install as mobile app for offline learning
+```
+╔═══════════════════════════════════════╗
+║         CADAVER'S CRYPT LAB           ║
+║                                       ║
+║  🧪 🦴 💀 🧠 👁️ 🫀 🫁 ⚰️  🕯️       ║
+║                                       ║
+║  Student trapped in haunted lab       ║
+║  must learn anatomy from ghost        ║
+║  professor to escape the crypt!       ║
+║                                       ║
+╚═══════════════════════════════════════╝
+```
 
-✨ Key Features
+```
+</details>
 
-👻 AI Ghost Professor
+## 🚀 Live Demo
 
-· Dr. Cadaverson: Conversational AI tutor with spooky Victorian personality
-· Natural Language Processing: Ask any anatomy question in plain English
-· Adaptive Learning: Progressively challenges based on your knowledge level
-· Clinical Correlations: Links anatomy to real medical cases and mysteries
+- **🌐 Web Application**: [cadaver-crypt.netlify.app](https://cadaver-crypt.netlify.app)
+- **🎥 Video Demo**: YouTube Demo
+- **📱 PWA Ready**: Install as mobile app for offline learning
 
-💀 Interactive 3D Anatomy
+## ✨ Key Features
 
-· Haunted Cadaver Models: Layer-by-layer dissection with Halloween effects
-· Animated Specimens: Twitching, floating anatomical structures
-· Medical Accuracy: All models validated against anatomical standards
-· Interactive Exploration: Click, rotate, and dissect in 3D space
+<details>
+<summary><strong>👻 AI Ghost Professor</strong></summary>
 
-🧪 Spooky Assessment System
+- **Dr. Cadaverson**: Conversational AI tutor with spooky Victorian personality
+- **Natural Language Processing**: Ask any anatomy question in plain English
+- **Adaptive Learning**: Progressively challenges based on your knowledge level
+- **Clinical Correlations**: Links anatomy to real medical cases and mysteries
 
-· Tombstone Trials: Graded quizzes with ghostly consequences
-· Zombie Horde Mode: Rapid-fire question survival challenges
-· Escape the Crypt: Final exam narrative proving medical mastery
-· Ghostly Rewards: Animated celebrations for correct answers
+```
 
-🦇 Halloween Special Modes
+```
+Student ────[ Question ]───┐
+                           │
+                           ▼
+┌─────────────────────────────────────┐
+│        GHOST PROFESSOR AI           │
+│                                     │
+│  🧠 Knowledge Base    💬 NLP       │
+│  🏥 Medical Data      🎯 Adaptive  │
+│                                     │
+└─────────────────────────────────────┘
+                           │
+                           ▼
+                [ Personalized Answer + Quiz ]
+```
 
-· Frankenstein's Monster: Build anatomical structures from parts
-· The Mummy's Wrappings: Layer-by-layer exploration with ancient curses
-· Vampire Physiology: Deep dive into circulatory system
-· Werewolf Transformations: Comparative anatomy across species
+```
+</details>
 
-🛠️ Technology Stack
+<details>
+<summary><strong>💀 Interactive 3D Anatomy</strong></summary>
 
-Frontend
+- **Haunted Cadaver Models**: Layer-by-layer dissection with Halloween effects
+- **Animated Specimens**: Twitching, floating anatomical structures
+- **Medical Accuracy**: All models validated against anatomical standards
+- **Interactive Exploration**: Click, rotate, and dissect in 3D space
 
-· React.js - Progressive Web Application
-· Three.js - 3D Graphics and WebGL rendering
-· Framer Motion - Halloween-themed animations
-· CSS3 - Haunted laboratory styling
+```
 
-AI & Backend
+```
+┌─────────────────────────────────────┐
+│         3D ANATOMY VIEWER           │
+│                                     │
+│        ┌─────────────────┐          │
+│        │    🫀 HEART     │          │
+│        │     Floating    │          │
+│        │    +Twitching   │          │
+│        └─────────────────┘          │
+│                                     │
+│  [Rotate] [Dissect] [Layer View]    │
+└─────────────────────────────────────┘
+```
 
-· Kiro AI - Primary development and conversational AI
-· Node.js - Runtime environment
-· Medical APIs - Real-time anatomical validation
+```
+</details>
 
-Deployment & DevOps
+<details>
+<summary><strong>🧪 Spooky Assessment System</strong></summary>
 
-· Vercel - Cloud deployment platform
-· GitHub Actions - Continuous integration
-· PWA - Offline functionality and mobile support
+- **Tombstone Trials**: Graded quizzes with ghostly consequences
+- **Zombie Horde Mode**: Rapid-fire question survival challenges
+- **Escape the Crypt**: Final exam narrative proving medical mastery
+- **Ghostly Rewards**: Animated celebrations for correct answers
+
+```
+
+```
+┌─────────────────────────────────────┐
+│         ASSESSMENT SYSTEM           │
+│                                     │
+│  🪦 Tombstone Trials → Graded      │
+│  🧟 Zombie Horde → Timed           │
+│  🚪 Escape Crypt → Final Exam      │
+│  👻 Rewards → Unlock Content       │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+```
+</details>
+
+## 🛠️ Technology Stack
+
+```mermaid
+graph TB
+    subgraph Frontend
+        A[React.js] --> B[Three.js]
+        B --> C[Framer Motion]
+        C --> D[CSS3]
+    end
+    
+    subgraph Backend
+        E[Kiro AI] --> F[Node.js]
+        F --> G[Medical APIs]
+    end
+    
+    subgraph Deployment
+        H[Netlify] --> I[GitHub Actions]
+        I --> J[PWA]
+    end
+    
+    A --> E
+    H --> A
+```
 
 🏗️ Project Architecture
 
+<details>
+<summary><strong>System Architecture</strong></summary>```
+    ╔═══════════════════════════════════════════════╗
+    ║            CADAVER'S CRYPT ARCHITECTURE       ║
+    ║                                               ║
+    ║  ┌─────────────────────────────────────────┐  ║
+    ║  │           NETLIFY DEPLOYMENT            │  ║
+    ║  │                                         │  ║
+    ║  │  ┌─────────────┐  ┌──────────────────┐  │  ║
+    ║  │  │   React     │  │    Static        │  │  ║
+    ║  │  │   App       │  │    Assets        │  │  ║
+    ║  │  │             │  │   (3D Models,    │  │  ║
+    ║  │  └─────────────┘  │    Sounds, etc.) │  │  ║
+    ║  │                   └──────────────────┘  │  ║
+    ║  └─────────────────────────────────────────┘  ║
+    ║                       │                        ║
+    ║  ┌─────────────────────────────────────────┐  ║
+    ║  │            EXTERNAL SERVICES            │  ║
+    ║  │                                         │  ║
+    ║  │  ┌──────────┐  ┌──────────┐  ┌────────┐ │  ║
+    ║  │  │  Kiro AI │  │ Medical  │  │ GitHub │ │  ║
+    ║  │  │          │  │   APIs   │  │  Pages │ │  ║
+    ║  │  └──────────┘  └──────────┘  └────────┘ │  ║
+    ║  └─────────────────────────────────────────┘  ║
+    ╚═══════════════════════════════════════════════╝
 ```
+
+</details><details>
+<summary><strong>Project Structure</strong></summary>```bash
 cadaver-crypt/
 ├── public/
 │   ├── 📁 3d-models/          # Anatomical models
 │   ├── 📁 sounds/             # Haunted soundscape
-│   └── 🛠️ service-worker.js   # Offline functionality
+│   ├── 📁 images/             # UI assets & icons
+│   ├── manifest.json          # PWA manifest
+│   └── sw.js                  # Service Worker
 ├── src/
 │   ├── 📁 components/         # React components
+│   │   ├── Lab/               # Laboratory scene
+│   │   ├── AnatomyViewer/     # 3D model viewer
+│   │   ├── Chat/              # AI conversation
+│   │   └── Assessment/        # Quiz components
 │   ├── 📁 hooks/              # Custom React hooks
 │   ├── 📁 threejs/            # 3D graphics system
 │   ├── 📁 ai/                 # Kiro integration
 │   └── 📁 utils/              # Medical validation
-└── .kiro/                     # Kiro development artifacts
+├── netlify.toml               # Netlify configuration
+├── package.json
+└── README.md
 ```
 
-🚀 Quick Start
+</details>🚀 Quick Start
 
-Prerequisites
+<details>
+<summary><strong>Local Development</strong></summary>Prerequisites
 
 · Node.js 16+
 · Modern web browser with WebGL support
@@ -117,20 +245,71 @@ Build for Production
 # Create production build
 npm run build
 
-# Serve built application
-npm run serve
+# The build folder is ready for Netlify deployment
 ```
 
-🎮 How to Use
+</details><details>
+<summary><strong>Netlify Deployment</strong></summary>Automatic Deployment
 
-1. Enter the Laboratory: Load the application to find yourself in Dr. Cadaverson's haunted lab
-2. Meet the Professor: Interact with the AI ghost tutor through the chat interface
-3. Explore Anatomy: Use the 3D viewer to examine anatomical structures
-4. Take Assessments: Complete spooky quizzes and challenges
-5. Progress Through Levels: Unlock new content as you demonstrate knowledge
-6. Escape the Crypt: Pass the final exam to complete your journey
+1. Connect GitHub repo to Netlify
+2. Configure build settings:
+   · Build Command: npm run build
+   · Publish Directory: build
+3. Deploy automatically on git push
 
-🏥 Medical Accuracy
+Manual Deployment
+
+```bash
+# Build the project
+npm run build
+
+# Deploy to Netlify
+npx netlify-cli deploy --prod --dir=build
+```
+
+Environment Variables
+
+```env
+REACT_APP_KIRO_API_KEY=your_kiro_api_key
+REACT_APP_MEDICAL_API_URL=your_medical_api_url
+```
+
+</details>🎮 How to Use
+
+<details>
+<summary><strong>User Journey</strong></summary>```
+    ┌─────────────────────────────────────────────────┐
+    │               USER JOURNEY FLOW                 │
+    ├─────────────────────────────────────────────────┤
+    │                                                 │
+    │  1. 🚪 Enter Laboratory                        │
+    │     - Load haunted lab environment             │
+    │     - Atmospheric soundscape                   │
+    │                                                 │
+    │  2. 👻 Meet Dr. Cadaverson                     │
+    │     - AI-powered conversation                  │
+    │     - Initial assessment                       │
+    │                                                 │
+    │  3. 🦴 Learn Anatomy                           │
+    │     - Interactive 3D models                    │
+    │     - Layer-by-layer dissection                │
+    │                                                 │
+    │  4. 🧪 Take Assessments                        │
+    │     - Tombstone Trials (quizzes)               │
+    │     - Zombie Horde (timed challenges)          │
+    │                                                 │
+    │  5. 🎓 Progress & Unlock                       │
+    │     - Earn ghostly rewards                     │
+    │     - Unlock special modes                     │
+    │                                                 │
+    │  6. 🏆 Escape the Crypt                        │
+    │     - Final comprehensive exam                 │
+    │     - Certificate of completion                │
+    │                                                 │
+    └─────────────────────────────────────────────────┘
+```
+
+</details>🏥 Medical Accuracy
 
 All educational content maintains 100% anatomical accuracy:
 
@@ -139,24 +318,33 @@ All educational content maintains 100% anatomical accuracy:
 · ✅ Evidence-based medical information
 · ✅ Progressive complexity aligned with medical curricula
 
-🌟 Kiro AI Integration
+🤖 Kiro AI Integration
 
-This project was built entirely using Kiro's AI development platform:
+<details>
+<summary><strong>AI Development Process</strong></summary>This project was built entirely using Kiro's AI development platform:
 
-Spec-Driven Development
+Development Workflow
 
-· Comprehensive project specifications
-· Medical accuracy requirements
-· Halloween theme guidelines
+```mermaid
+graph LR
+    A[Specifications] --> B[AI Planning]
+    B --> C[Code Generation]
+    C --> D[Testing]
+    D --> E[Deployment]
+    
+    F[Medical Data] --> B
+    G[Theme Guidelines] --> B
+    H[User Feedback] --> D
+```
 
-Advanced Features
+Key AI Features
 
-· AI-powered conversational interface
-· Automated medical validation
-· Adaptive learning algorithms
-· Real-time content generation
+· Conversational Interface: Natural dialogue with Dr. Cadaverson
+· Medical Validation: Real-time anatomical accuracy checking
+· Adaptive Learning: Personalized difficulty progression
+· Content Generation: Dynamic quiz and case study creation
 
-📱 Platform Support
+</details>📱 Platform Support
 
 · Desktop: Full 3D experience with keyboard/mouse controls
 · Tablet: Touch-optimized interface with gesture support
@@ -165,12 +353,15 @@ Advanced Features
 
 🤝 Contributing
 
-We welcome contributions from developers, medical professionals, and educators:
+<details>
+<summary><strong>Contribution Guidelines</strong></summary>We welcome contributions from developers, medical professionals, and educators:
+
+Development Process
 
 1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
+2. Create a feature branch: git checkout -b feature/amazing-feature
+3. Commit changes: git commit -m 'Add amazing feature'
+4. Push to branch: git push origin feature/amazing-feature
 5. Open a Pull Request
 
 Areas for Contribution
@@ -181,7 +372,7 @@ Areas for Contribution
 · Performance optimizations
 · Translation and localization
 
-📄 License
+</details>📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -205,6 +396,7 @@ Senushi Dinara - Medical Student & AI Developer
 · Kiro AI for transformative development capabilities
 · Medical professionals who verified anatomical accuracy
 · Open source community for amazing tools and libraries
+· Netlify for seamless deployment platform
 · Test users who provided valuable feedback during development
 
 ---
@@ -213,4 +405,7 @@ Senushi Dinara - Medical Student & AI Developer
 
 "The only thing we have to fear is forgetting our anatomy" - Dr. Cadaverson
 
+Live Demo: cadaver-crypt.netlify.app
+
 </div>
+```
